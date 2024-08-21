@@ -5,7 +5,7 @@
   Projeto com React Native
 </h2>
 
-Foi desenvolvida uma aplicação no Visual Studio Code do curso de Formação React Native da [ROCKETSEAT](https://www.rocketseat.com.br/). O objetivo dessa aplicação é fazer o cadastro de pessoas em um evento. Cada pessoa cadastrada é exibida em uma Flat List. Também é possivel excluir as pessoas do evento.
+Foi desenvolvida uma aplicação no Visual Studio Code do curso de Formação React Native da [ROCKETSEAT](https://www.rocketseat.com.br/). O objetivo dessa aplicação é fazer o cadastro de pessoas em um evento. Cada pessoa cadastrada é exibida em uma Flat List. Também é possível excluir as pessoas do evento.
 <br>
 <br>
 <p align="center">
@@ -21,7 +21,7 @@ Durante as aulas do foram aprendidos conteúdos relacionados a Classes abstradas
 
 ### Funcionalidades
 
-- Cadastrar pesosas;
+- Cadastrar pessoas;
 - Listar pessoas cadastradas em lista;
 - Excluir pessoas;
 
