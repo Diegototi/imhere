@@ -45,7 +45,7 @@ Seguem as configurações neessárias para visualizar a aplicação em sua máqu
 1. Pelo terminal, acesse o diretório em que deseja ter o repositório clonado e execute o comando a seguir.
 ```bash
 # clonando o repositório
-git clone https://github.com/Diegototi/series-console-app.git
+git clone https://github.com/Diegototi/imhere
 ```
 
 ### :beginner: Iniciando a aplicação
