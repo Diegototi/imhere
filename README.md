@@ -84,5 +84,5 @@ Esse projeto está sob MIT license. Veja [LICENSE](https://github.com/Diegototi/
 
 ---
 
-Feito por Diego Almeida :blue_heart: Contato: https://www.linkedin.com/in/diego-almeida-a8394a215/ :blush:
+Feito por Diego Almeida :blue_heart: Contato: https://www.linkedin.com/in/diego-almeida-a8394a215 :blush:
 
