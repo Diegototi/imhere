@@ -60,9 +60,9 @@ git clone https://github.com/Diegototi/imhere.git
 ### :beginner: Iniciando a aplicação
 Abra o projeto e instale as dependências e rode o projeto:
 
-cd imhere/
-npm install
-npx expo start
+cd imhere <br>
+npm install <br>
+npx expo start <br>
 
 ### :wrench: Tecnologias | Ferramentas | Recursos
 
